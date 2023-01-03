@@ -1,14 +1,13 @@
 ---------
-title: SQL String Pattern Matching Technique 
+SQL String Pattern Matching Technique 
 ---------
 author: Quang Huy Pham
 ---------
-Disclaimer: This learning note is part of SQL Virtual Data Appreticeship offered by Danny Ma. I mostly follow along with his guidence but also adding my thought process in each technique/sections
+**Disclaimer:** This learning note is part of SQL Virtual Data Appreticeship offered by Danny Ma. I mostly follow along with his guidence but also adding my thought process in each technique/sections
 
 Enjoy!!
 Huy
 
-# SQL String Pattern Matching Technique 
 String pattern matching is tryly an essential skill for SQL. There are a few key tools and tricks that we have up our sleeve for any text matching problem:
 - Exact pattern matching with `=`
 - Efficient fuzzy matching using `LIKE` for case sensitive and `ILIKE` for case insensitive
