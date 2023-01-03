@@ -1,7 +1,7 @@
----
+---------
 title: SQL String Pattern Matching Technique 
 author: Quang Huy Pham
----
+---------
 Disclaimer: This learning note is part of SQL Virtual Data Appreticeship offered by Danny Ma. I mostly follow along with his guidence but also adding my thought process in each technique/sections
 
 Enjoy!!
