@@ -879,4 +879,4 @@ Huy~
 
 ---------------------
 ## Resources
-([Danny Ma Serious SQL Course](https://www.datawithdanny.com/))
+[Danny Ma Serious SQL Course](https://www.datawithdanny.com/)
