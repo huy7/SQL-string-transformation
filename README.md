@@ -1,7 +1,7 @@
 ---------
 SQL String Pattern Matching Technique 
 ---------
-**Disclaimer:** This learning note is part of SQL Virtual Data Appreticeship offered by Danny Ma. I mostly follow along with his guidence but also adding my thought process in each technique/sections
+**Disclaimer:** Most of the learning note content is part of Serious SQL course offered by Danny Ma. I mostly follow along with his guidence but also adding my thought process in each technique/sections. I leave the link at the end of the note!
 
 Enjoy!!
 Huy
@@ -876,3 +876,6 @@ I won't share any cheatsheet since I'm still a very beginner and having the chea
 
 Happy learning !
 Huy~
+
+---------------------
+([Resources:](https://www.datawithdanny.com/))
