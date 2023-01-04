@@ -878,4 +878,5 @@ Happy learning !
 Huy~
 
 ---------------------
-([Resources:](https://www.datawithdanny.com/))
+## Resources
+([Danny Ma Serious SQL Course](https://www.datawithdanny.com/))
